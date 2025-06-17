@@ -13,7 +13,7 @@ function criaCartao(categoria,pergunta,resposta){
                   <p>linguagem de programação</p>  
                 </div>`
               
-    </article>            `
+    </article>            
             
   </article>
 
