@@ -69,7 +69,7 @@ body {
     tranform rotateY(180deg);
 
 }
-
+.cartao:hover .cartao__conteudo
 .cartao__conteudo__pergunta,
 .cartao__conteudo__resposta {
     backface-visibility: hidden;
